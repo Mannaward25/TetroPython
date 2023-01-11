@@ -1,1 +1,2 @@
-print("gay")
+print("Molodec")
+print("Biggy")
